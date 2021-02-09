@@ -9,7 +9,7 @@
 0x06 C2
 
 [找源码](https://github.com/ybdt/attack-hub/blob/main/%E6%89%BE%E6%BA%90%E7%A0%81%E6%80%9D%E8%B7%AF.md)  
-代码审计
+[代码审计](https://github.com/ybdt/audit-hub)
 
 子域名收集：  
 https://github.com/shmilylty/OneForAll  
