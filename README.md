@@ -2,7 +2,7 @@
 
 常规渗透：  
 1、[信息收集](https://github.com/ybdt/attack-hub/blob/main/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86.md)  
-2、漏洞检测利用  
+2、[漏洞检测利用](https://github.com/ybdt/exp-hub)  
 3、WAF绕过  
 4、WebShell  
 5、流量代理  
