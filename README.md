@@ -8,6 +8,8 @@
 0x05 内网渗透  
 0x06 C2
 
+找源码思路见find-source.md
+
 子域名收集：  
 https://github.com/shmilylty/OneForAll  
 https://github.com/lijiejie/subDomainsBrute
