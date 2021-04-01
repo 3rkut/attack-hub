@@ -15,5 +15,5 @@
 4、[子域名收集](https://github.com/ybdt/attack-hub/blob/main/%E5%AD%90%E5%9F%9F%E5%90%8D%E6%94%B6%E9%9B%86.md)
 
 物联网渗透思路：  
-1、SSID处、密码处存在命令注入漏洞  
+1、针对智能洗衣机的SSID处、密码处存在命令注入漏洞  
 参考链接：https://mp.weixin.qq.com/s/MBh8DeWC4Z7H8o5P4KKWfA
