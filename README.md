@@ -1,13 +1,12 @@
 # attack-hub
 
 #### 0x00 常规渗透：
-1、[信息收集](https://github.com/ybdt/attack-hub/blob/main/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86.md)  
-2、[漏洞检测利用](https://github.com/ybdt/exp-hub)  
-3、[后台拿shell思路汇总](./后台拿shell思路汇总.md)  
-4、Webshell  
-5、流量代理  
-6、内网渗透  
-7、C2
+1、[信息收集](./1-信息收集.md)  
+2、[漏洞检测利用](./2-漏洞检测利用.md)  
+3、[后台拿shell思路汇总](./3-后台拿shell思路汇总.md)  
+4、[Webshell](./4-Webshell.md)  
+5、[流量代理](./5-流量代理.md)  
+6、[内网渗透](./6-内网渗透)
 
 #### 0x01 高级渗透：  
 1、WAF绕过  
